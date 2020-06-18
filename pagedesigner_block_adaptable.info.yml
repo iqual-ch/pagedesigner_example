@@ -1,0 +1,9 @@
+name: Pagedesigner Example
+description: This module shows how to integrate with the Pagedesigner Module, including creating a Pagedesigner Handler.
+package: pagedesigner
+
+type: module
+core: 8.x
+
+dependencies:
+  - pagedesigner:pagedesigner
